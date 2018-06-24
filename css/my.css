@@ -1,0 +1,434 @@
+
+
+body{
+
+    margin: 10px;
+}
+
+.cont{
+
+
+}
+.face{
+    padding-top: 20px;
+
+    text-align: center;
+    background: url("../img/Image.png");
+    background-size: 100% 100%;
+}
+
+.face h1{
+    margin-top: 15%;
+    font-size: 48px;
+    letter-spacing: 5px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Josefin Sans";
+    font-weight: bold;
+    text-align: center;
+}
+
+.face p{
+    font-size: 22px;
+    letter-spacing: 7px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Josefin Sans";
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+
+
+input[type=text] {
+    width: 500px;
+    height: 55px;
+    background-color: #ffffff;
+
+}
+
+input[type=text]::placeholder {
+    padding-left: 124px;
+
+}
+
+.but {
+    margin-left: -5px;
+    width: 150px;
+    height: 61px;
+    background-color: #5373fd;
+    border: 2px solid #ffffff;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Aleo";
+    text-align: center;
+    outline: none;
+
+
+}
+
+form{
+    padding-bottom: 115px;
+}
+
+.hea{
+    background-color: #5373fd;
+    padding-bottom: 20px;
+
+
+
+}
+
+.hea h1{
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Josefin Sans";
+    font-weight: bold;
+    text-align: left;
+
+
+
+
+
+}
+.hea ul{
+    list-style: none;
+    text-align: right;
+    padding-right: 100px;
+
+
+}
+
+.hea ul li{
+    display: inline-block;
+    padding-right: 20px;
+
+}
+
+.hea ul li a {
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+h2{
+    font-size: 14px;
+    letter-spacing: 3px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Josefin Sans";
+    text-align: center;
+}
+
+/*22222*/
+.choose{
+   background: url("../img/Rectangle 7.png");
+    background-size: 100% 100%;
+    padding: 100px 200px;
+
+
+}
+
+.obl{
+    width: 88%;
+    margin-left: 6%;
+
+}
+
+.name{
+
+    width: 55%;
+    text-align: left;
+    color: white;
+    display:inline-block
+
+}
+ .name h1{
+     font-size: 36px;
+     line-height: 26px;
+     color: rgb(255,255,255);
+     font-family: "Aleo";
+     padding-bottom: 62px;
+
+ }
+.name p{
+    width: 90%;
+    padding-bottom: 25px;
+    width: 539px;
+    height: 143px;
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    color: rgb(232,232,232);
+    font-family: "Josefin Sans";
+}
+
+.name button{
+    width: 35%;
+    height: 60px;
+    background-color: #5373fd;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Aleo";
+    border: inherit;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+
+.imag{
+    width: 30%;
+    display:inline-block;
+
+
+
+
+}
+
+.imag .one{
+     margin-right: 100px;
+ }
+
+
+.imag .two{
+    margin-left: 100px;
+}
+
+.how{
+    background-color: #333333;
+}
+
+/*222.555*/
+.block{
+   width: 80%;
+    margin-left: 7%;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.shap{
+    margin-left: 10%;
+}
+
+.search{
+display: inline-block;
+    margin-left: 10%;
+
+}
+
+.ok{
+    display: inline-block;
+    margin-left:15%;
+}
+
+.like{
+    display: inline-block;
+    margin-left: 15%;
+
+}
+
+.block p{
+    font-size: 36px;
+    line-height: 26px;
+    color: rgb(232,232,232);
+    font-family: "Aleo";
+    text-align: center;
+}
+
+
+/*3333333333*/
+
+
+.spain{
+    background: url("../img/Rectangle 414.png") ;
+    background-size: 100% 100%;
+    padding-top: 230px;
+    padding-left: 330px;
+    padding-bottom: 100px;
+
+}
+
+.spain .about{
+    width: 33%;
+    background: rgba(0,0,0,0.7);
+    padding: 50px 25px;
+}
+
+.about h2{
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    color: rgb(232,232,232);
+    font-family: "Josefin Sans";
+    text-align: left;
+}
+
+.about h3{
+    font-size: 20px;
+    line-height: 26px;
+    color: rgb(254,254,254);
+    font-family: "Josefin Sans";
+}
+
+.about
+p{
+
+
+    font-size: 16px;
+    line-height: 26px;
+    color: rgb(232,232,232);
+    font-family: "Josefin Sans";
+    padding-bottom: 45px;
+
+
+
+}
+
+.about
+button{
+
+    width: 225px;
+    height: 60px;
+    background-color: #5373fd;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Aleo";
+    border: inherit;
+    text-transform: uppercase;
+}
+/*44444444444444*/
+
+
+.spani{
+    background: url("../img/Rectangle 4141.png");
+    background-size: 100% 100%;
+    padding-top: 225px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+
+
+
+}
+
+.spanish{
+    width:33%;
+    background: rgba(0,0,0,0.7);
+    padding: 50px 25px;
+
+    margin-left: auto;
+    margin-right: 0;
+
+
+
+}
+
+.spanish h2{
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    color: rgb(232,232,232);
+    font-family: "Josefin Sans";
+}
+
+.spanish h3{
+    font-size: 20px;
+    line-height: 26px;
+    color: rgb(254,254,254);
+    font-family: "Josefin Sans";
+}
+.spanish
+p{
+
+    font-size: 16px;
+    line-height: 26px;
+    color: rgb(232,232,232);
+    font-family: "Josefin Sans";
+    padding-bottom: 45px;
+}
+
+.spanish
+button{
+    width: 225px;
+    height: 60px;
+    background-color: #5373fd;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Aleo";
+    border: inherit;
+    text-transform: uppercase;
+}
+
+/*555555555*/
+
+.tourist{
+    background: url("../img/Rectangle 4142.png");
+    background-size: 100% 100%;
+    padding-top: 105px;
+    padding-bottom: 200px;
+
+}
+
+.tourist h1{
+    font-size: 36px;
+    line-height: 26px;
+    color: rgb(255,255,255);
+    font-family: "Aleo";
+    text-align: center;
+}
+
+.tab{
+    width: 69%;
+   margin-left: 20%;
+    height: 284px;
+    display: flex;
+}
+.foto{
+    display: inline-block;
+
+
+
+}
+.say{
+
+
+
+    margin-left: -4px;
+
+    display: inline-block;
+    background-color: #333333;
+}
+.say h2{
+    padding-left: 50px;
+    font-size: 20px;
+    line-height: 26px;
+    color: rgb(254,254,254);
+    font-family: "Josefin Sans";
+    text-align: left;
+}
+
+.say p{
+    padding-left: 50px;
+    padding-right: 20px;
+
+
+}
+
+.tab {
+    width: 80%;
+    margin-left: 10%;
+
+}
